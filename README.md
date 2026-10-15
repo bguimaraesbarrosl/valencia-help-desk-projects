@@ -35,7 +35,7 @@ The presentation covers cost, print quality, reliability, environmental impact, 
 
 **Skills:** Hardware Research, Technical Analysis, Problem-Solving, Presentation Skills
 
-[View Project 2](Project-02-OEM-vs-Refilled-Printer-Cartridges.pptx)
+[View Project 2](https://github.com/bguimaraesbarrosl/valencia-help-desk-projects/blob/main/Project-02-OEM-vs-Refilled-Printer-Cartridges.pptx.pdf)
 
 ---
 
@@ -49,7 +49,7 @@ I also compared Jitbit with LBE Helpdesk.
 
 **Skills:** Ticket Management, Troubleshooting, Knowledge Base Documentation, Technical Support
 
-[View Project 3](Project-03-Help-Desk-Ticketing-and-Knowledge-Base.docx)
+[View Project 3](https://github.com/bguimaraesbarrosl/valencia-help-desk-projects/blob/main/Project-03-Help-Desk-Ticketing-and-Knowledge-Base.docx.pdf)
 
 ---
 
@@ -63,7 +63,7 @@ I also evaluated the comparison methods and suggested additional criteria, such 
 
 **Skills:** Product Research, Hardware Evaluation, Critical Thinking, Customer Recommendations
 
-[View Project 4](Project-04-Laptop-Product-Comparison-Analysis.docx)
+[View Project 4](https://github.com/bguimaraesbarrosl/valencia-help-desk-projects/blob/main/Project-04-Laptop-Product-Comparison-Analysis.docx.pdf)
 
 ---
 
@@ -75,7 +75,7 @@ I researched affordable solutions for workspace organization, comfort, cable man
 
 **Skills:** IT Support, Workplace Troubleshooting, Hardware Research, Technical Recommendations, Professional Communication
 
-[View Project 5](Project-05-Workstation-Improvement-Recommendations.pdf)
+[View Project 5](https://github.com/bguimaraesbarrosl/valencia-help-desk-projects/blob/main/Project-05-Workstation-Improvement-Recommendations.pdf.pdf)
 
 ---
 

@@ -23,7 +23,7 @@ I evaluated how easy it was to find information, understand technical instructio
 
 **Skills:** Customer Support, Research, User Experience Evaluation
 
-[View Project 1](Project-01-Vendor-Support-Website-Evaluation.docx)
+[View Project 1]([Project-01-Vendor-Support-Website-Evaluation.docx](https://github.com/bguimaraesbarrosl/valencia-help-desk-projects/blob/main/Project-01-Vendor-Support-Website-Evaluation.docx.pdf))
 
 ---
 
